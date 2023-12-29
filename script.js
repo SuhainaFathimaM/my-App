@@ -2,7 +2,7 @@ let bagItems;
 const items = [
     {
         id: '001',
-        image: "./1.jpg",
+        image: "1.jpg",
         company: 'DressBerry',
         item_name: 'Women Mauve Analogue Watch',
         original_price: 3299,
@@ -161,7 +161,7 @@ function displayItemsOnHomePage() {
   items.forEach(item => {
     innerHtml += `
     <div class="item-container">
-      <img class="item-image" src="${item.image}" alt="item image">
+      <img class="item-image" src="./${item.image}" alt="item image">
       <div class="rating">
           ${item.rating.stars} ⭐ | ${item.rating.count} Ratings
       </div>
