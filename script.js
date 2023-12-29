@@ -2,7 +2,7 @@ let bagItems;
 const items = [
     {
         id: '001',
-        image: 'images/1.jpg',
+        image: '1.jpg',
         company: 'DressBerry',
         item_name: 'Women Mauve Analogue Watch',
         original_price: 3299,
@@ -17,7 +17,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'images/2.jpg',
+        image: '2.jpg',
         company: 'Varanga',
         item_name: 'Women Mauve Floral Yoke Design Chanderi Silk Kurta with Trousers & With Dupatta',
         original_price: 5999,
@@ -32,7 +32,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'images/3.jpg',
+        image: '3.jpg',
         company: 'Saree mall',
         item_name: 'Women Pink Woven Design Silk Blend Saree',
         original_price: 7699,
@@ -47,7 +47,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'images/4.jpg',
+        image: '4.jpg',
         company: 'DOROTHY PERKINS',
         item_name: 'Women Tassel Detail Horsebit Loafers',
         original_price: 5249,
@@ -62,7 +62,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'images/5.jpg',
+        image: '5.jpg',
         company: 'Jompers',
         item_name: 'Geometric Embroidered Sequinned Pure Cotton Straight Kurta With Pyjamas',
         original_price: 5499,
@@ -77,7 +77,7 @@ const items = [
     },
     {
         id: '006',
-        image: 'images/6.jpg',
+        image: '6.jpg',
         company: 'Skybags',
         item_name: 'Unisex Black & White Brand Logo Print Backpack- 21.3 Ltrs',
         original_price: 2100,
@@ -92,7 +92,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'images/7.jpg',
+        image: '7.jpg',
         company: 'pspeaches',
         item_name: 'Magenta & White Floral A-Line Cotton Dress with Attached Shrugs',
         original_price: 2125,
@@ -107,7 +107,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'images/8.jpg',
+        image: '8.jpg',
         company: 'Lakme',
         item_name: 'Sun Expert Ultra Matte SPF 40 PA+++ Compact - 7g',
         original_price: 299,
